@@ -14,7 +14,7 @@ Deteksi apakah seseorang memiliki Diabetes
 """)
 
 #Load data nya
-df = pd.read_csv("C:/SyabaruddinFolder/Work/Algoritma/PYTHON/streamlit/diabetes/train.csv")
+df = pd.read_csv("diabetes/train.csv")
 
 #Buat Subheader
 st.subheader("Data Information")
