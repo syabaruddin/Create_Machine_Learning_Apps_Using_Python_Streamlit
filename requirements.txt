@@ -1,8 +1,5 @@
-
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620833114945/work
-
-pandas @ file:///C:/ci/pandas_1618365634936/work
-
-scikit-learn @ file:///C:/ci/scikit-learn_1621370563523/work
-
+numpy==1.19.1
+pandas==1.2.4
+scikit-learn==0.23.1
+scipy==1.5.4
 streamlit==0.82.0
