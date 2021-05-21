@@ -1,32 +1,3 @@
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-certifi==2020.12.5
-colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-decorator @ file:///tmp/build/80754af9/decorator_1621259047763/work
-ipykernel==5.4.3
-ipython @ file:///C:/ci/ipython_1617121002983/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-jedi==0.18.0
-joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
-jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
-mkl-fft==1.3.0
-mkl-random @ file:///C:/ci/mkl_random_1618854156666/work
-mkl-service==2.3.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1620833114945/work
-pandas @ file:///C:/ci/pandas_1618365634936/work
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
-Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
-pywin32==300
-pyzmq==22.0.2
-scikit-learn @ file:///C:/ci/scikit-learn_1621370563523/work
-scipy @ file:///C:/ci/scipy_1618856128765/work
-six @ file:///C:/ci/six_1605187374963/work
-threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
-tornado @ file:///C:/ci/tornado_1606942392901/work
-traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
-wincertstore==0.2
+streamlit==0.81.0
+numpy==1.20.2
+pandas==1.2.4
